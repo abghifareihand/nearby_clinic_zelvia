@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643655047949",
+    "project_id": "mapshospital-f5561",
+    "storage_bucket": "mapshospital-f5561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643655047949:android:0494eb8c2b231b97612e44",
+        "android_client_info": {
+          "package_name": "com.example.hospital_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643655047949-nribpr13j2tubsmchjcquepdctqurtdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSx9cFpzSP6O9I27Qqj_abdrWN6ZaWa6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643655047949-nribpr13j2tubsmchjcquepdctqurtdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

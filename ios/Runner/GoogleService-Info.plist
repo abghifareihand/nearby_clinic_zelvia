@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>643655047949-dpeh6via0un8eau9hakb9vg3t8rp0c8r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.643655047949-dpeh6via0un8eau9hakb9vg3t8rp0c8r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD86JrFvbBOq8jddBMUupcqi2GY8GXMa2Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>643655047949</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hospitalMaps</string>
+	<key>PROJECT_ID</key>
+	<string>mapshospital-f5561</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mapshospital-f5561.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:643655047949:ios:e2f31942135d6559612e44</string>
+</dict>
+</plist>
